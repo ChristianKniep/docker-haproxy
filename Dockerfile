@@ -1,7 +1,7 @@
 ###### ETCD images
 # A docker image that includes
 # - etcd
-FROM qnib-supervisor
+FROM qnib/supervisor
 MAINTAINER "Christian Kniep <christian@qnib.org>"
 
 # haproxy
